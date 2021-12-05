@@ -1,4 +1,4 @@
-type: dev
+type: prod
 server:
   port: 8000
   ssl:
