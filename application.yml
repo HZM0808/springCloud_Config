@@ -1,4 +1,4 @@
-type: dev
+type: dev12
 server:
   port: 8000
   ssl:
