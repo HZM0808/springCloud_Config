@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: cloud-pay-server
+  rabbitmq:
+    username: guest
+    password: guest
+    host: 192.168.31.155
+    port: 5672
