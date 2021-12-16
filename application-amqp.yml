@@ -1,6 +1,4 @@
 spring:
-  application:
-    name: cloud-pay-server
   rabbitmq:
     username: guest
     password: guest
